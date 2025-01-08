@@ -3,7 +3,8 @@
 
  Contenido:
  
- Pack 1 (5 sonidos originales de Bombo)
+ Pack 1:
+ 5 sonidos originales de Bombo
 
  Pack 2:
  
