@@ -14,7 +14,7 @@
  En cuanto a volumen no se sentirá mucha diferencia pero si en términos de limpieza, el de cero db suena más agresivo que el de -16db
 
  ------------------------------------------------------------------------------------------------------------------------------------
- MODO DE USO
+# MODO DE USO
 
 1. Desconecter audio y alimentación del módulo KickGGer
 
@@ -26,7 +26,7 @@
 
 5. Usar de forma normal
 
-NOTA: A pesar de ser archivos de audio en formato "WAV" no sonarán de la misma forma reproducidos en el PC que en el KickGGer.
+# NOTA: A pesar de ser archivos de audio en formato "WAV" no sonarán de la misma forma reproducidos en el PC que en el KickGGer.
 
 ------------------------------------------------------------------------------------------------------------------------------------
  Alexander Amaya Enero 2025
